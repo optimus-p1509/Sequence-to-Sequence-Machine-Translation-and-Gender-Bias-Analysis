@@ -1,0 +1,3 @@
+Code git : https://github.com/tensorflow/nmt
+
+Dataset link : http://www.statmt.org/wmt16/translation-task.html
